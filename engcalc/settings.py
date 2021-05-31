@@ -25,7 +25,7 @@ SECRET_KEY = 'o2omg!5ov2*_o+*x$7+5junr3^*z#sc#hh3q^_krsg+t-bnyq('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['127.0.0.1', 'motion-calculation.herokuapp.com']
 
 
 # Application definition
